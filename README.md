@@ -5,6 +5,8 @@
 [![麦当劳程序员创意开发大赛](https://img.shields.io/badge/麦当劳程序员创意开发大赛-参赛作品-red)](https://github.com/M-China/mcd-developer-innovation-challenge)
 [![MCP](https://img.shields.io/badge/MCP-麦当劳中国官方-orange)](https://github.com/M-China/mcd-mcp-server)
 
+![积分体检报告](./docs/report.png)
+
 ---
 
 ## 这是什么问题
